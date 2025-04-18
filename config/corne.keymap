@@ -105,7 +105,7 @@
             display-name = "Lower";
             bindings = <
 &trans      &trans  &trans    &kp UP_ARROW  &kp LS(LC(NUMBER_1))  &kp LS(LC(NUMBER_2))    &OTH CARET 0        &GTH AMPS N7              &GTH ASTERISK N8            &GTH LEFT_PARENTHESIS N9     &OTH RIGHT_PARENTHESIS 0  &GTH PLUS EQUAL
-&kp DELETE  &trans  &kp LEFT  &kp DOWN      &kp RIGHT             &trans                  &OTH EXCLAMATION 0  &GTH AT NUMBER_3          &GTH HASH NUMBER_4          &GTH DOLLAR NUMBER_6         &GTH PERCENT NUMBER_0     &GTH PIPE NON_US_BACKSLASH
+&kp DELETE  &trans  &kp LEFT  &kp DOWN      &kp RIGHT             &trans                  &OTH EXCLAMATION 0  &GTH AT NUMBER_4          &GTH HASH N5                &GTH DOLLAR NUMBER_6         &GTH PERCENT NUMBER_0     &GTH PIPE NON_US_BACKSLASH
 &trans      &trans  &trans    &trans        &trans                &kp CAPSLOCK            &GTH TILDE GRAVE    &GTH LEFT_BRACE NUMBER_1  &GTH LEFT_BRACKET NUMBER_2  &GTH RIGHT_BRACKET NUMBER_3  &OTH RIGHT_BRACE 0        &trans
                               &trans        &trans                &trans                  &trans              &trans                    &trans
             >;
